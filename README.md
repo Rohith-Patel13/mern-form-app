@@ -1,7 +1,7 @@
-Frontend: React
-Backend: Node.js with Express.js Framework
-SOCKET.IO library used
-Database: MongoDB
+Frontend: React;
+Backend: Node.js with Express.js Framework;
+SOCKET.IO library used;
+Database: MongoDB.
 
 If user logins in one tab and if the same user logged in on another tab then the previous tab will get alert message as pop-up which is implemented using socket.io and form validations are used.
 
